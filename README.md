@@ -30,7 +30,7 @@ The web server for controlling the movies that are on and off.
 Arduino Yun
 
 For I2C communication between Yun and Uno connect
-Yun 18 - Uno A5
-Yun 19 - Uno A4
-Yun Gnd - Uno Gnd
+| Yun 18 | Uno A5 |
+| Yun 19 | Uno A4 |
+| Yun Gnd | Uno Gnd |
 See photos in directory img/
